@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#2563EB"/>
+  <path d="M256 80 L380 130 L380 260 C380 340 320 400 256 430 C192 400 132 340 132 260 L132 130 Z" fill="#1D4ED8" stroke="white" stroke-width="8"/>
+  <path d="M256 120 L356 162 L356 260 C356 324 308 374 256 400 C204 374 156 324 156 260 L156 162 Z" fill="#3B82F6"/>
+  <!-- Wallet icon inside shield -->
+  <rect x="196" y="210" width="120" height="80" rx="10" fill="white" opacity="0.95"/>
+  <rect x="196" y="198" width="120" height="24" rx="8" fill="white"/>
+  <circle cx="302" cy="250" r="12" fill="#2563EB"/>
+  <circle cx="302" cy="250" r="6" fill="white"/>
+  <!-- Dollar sign -->
+  <text x="238" y="258" font-family="Arial" font-size="28" font-weight="bold" fill="#2563EB">$</text>
+</svg>
